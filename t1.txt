@@ -1,1 +1,5 @@
-notepad.exe
+$site="https://uwhef.fojewifj/wuhgfuhweif";
+if (get-process "Chrome") { Start $site } 
+elseif (get-process "Firefox") { Start $site } 
+elseif (get-process "Safari") { Start $site } 
+elseif (get-process "Opera") { Start $site }
