@@ -1,4 +1,5 @@
-$site="https://cli.re/6YZeKN";
+exit;
+$site="https://script0.000webhostapp.com/";
 if (get-process "Chrome") { Start $site } 
 elseif (get-process "Firefox") { Start $site } 
 elseif (get-process "Safari") { Start $site } 
